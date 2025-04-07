@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+#temba{
+    background-color: blue;
+    height: 200px;
+    width: 100px;
+}
+img{
+    border: 2px solid white;
+    border-radius: 50;
+}
+button {
+    color: white;
+    background-color: black;
+    border: 2px dotted white
+    ;
+}
